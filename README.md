@@ -1,6 +1,3 @@
 # ProyectoFinalRest
 
-
-Integrantes:
-
-Sebastian Muños - Nicloas Camacho - Esteban Hernandez
+Nicolas Camacho Lesmes  Requerimiento 7 funcionando
